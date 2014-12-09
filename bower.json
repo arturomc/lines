@@ -1,0 +1,15 @@
+{
+    "name":"lines",
+    "description":"a fluid crud framework",
+    "version":"0.0.1",
+
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/arturomc/lines.git"
+    },
+    "dependencies":{
+        "angular":"latest",
+        "bootstrap":"latest",
+        "font-awesome":"latest"
+    }
+}
